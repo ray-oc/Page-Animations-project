@@ -1,18 +1,14 @@
-# Page Animations
+# Page Transitions with Barba.js and GSAP
 
-A cutting-edge animated web project that brings dynamic, interactive page transitions to life. This project uses modern web technologies to create smooth and engaging animations for a seamless user experience.
+This project demonstrates seamless page transitions using [Barba.js](https://barba.js.org/) for smooth navigation and [GSAP](https://greensock.com/gsap/) for animations, designed for a fictional fashion brand website.
 
-## Features
+## Features:
+- **Smooth Page Transitions:** When navigating between pages, the content fades in/out smoothly.
+- **Product Showcase:** Each product page has a showcase section with animations for a clean and engaging experience.
+- **Responsive Navigation:** A hamburger-style menu and shopping cart icons for easy navigation on all devices.
+- **Interactive Product Gallery:** A section where users can explore product options with quick animations on hover.
 
-- **Smooth Page Transitions:** Fluid transitions between pages that create a native app-like feel.
-- **Responsive Design:** Optimized for various screen sizes, with a particular focus on mobile and tablet views.
-- **Interactive Animations:** Engaging, touch-friendly interactions with captivating visual effects.
-- **Performance Optimized:** Lazy-loaded assets and dynamic content for faster interactivity and less resource consumption.
-- **Customization:** Easily customizable animation settings and transitions to match your project's theme.
-
-## Technologies Used
-
-- **HTML5:** Clean, semantic, and accessible markup.
-- **CSS3:** Advanced styling with Flexbox, Grid, and animations.
-- **JavaScript (ES6+):** Dynamic content, interactivity, and page transition handling.
-- **GSAP (GreenSock Animation Platform):** For high-performance, complex animations and transitions.
+## Requirements:
+- **Barba.js** for handling the page transitions.
+- **GSAP (GreenSock Animation Platform)** for animations.
+- A modern web browser.
